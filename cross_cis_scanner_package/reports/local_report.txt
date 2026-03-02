@@ -1,7 +1,0 @@
-WIN-001 | PASS | Minimum password length >= 14
-WIN-002 | FAIL | Account lockout threshold
-WIN-003 | FAIL | Firewall enabled
-WIN-004 | FAIL | Windows Defender running
-WIN-005 | FAIL | Ensure Guest account is disabled
-WIN-006 | FAIL | Ensure SMBv1 is disabled
-WIN-007 | FAIL | Ensure Remote Desktop requires Network Level Authentication
